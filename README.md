@@ -7,4 +7,5 @@ Each pallet has assigned sound which produce bubbles of same colour that you hav
 To produce sound, tap on colour pallets and create your own music.
  
  ## Screenshot
- 
+ ![Create Music](https://user-images.githubusercontent.com/62142963/85205514-6a879680-b339-11ea-814c-3db422dfb50f.png)
+
