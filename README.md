@@ -6,3 +6,5 @@ You are provided colourfull pallets of seven colours (VIBGYOR) at the bottom of 
 Each pallet has assigned sound which produce bubbles of same colour that you have pressed.
 To produce sound, tap on colour pallets and create your own music.
  
+ ## Screenshot
+ 
